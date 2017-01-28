@@ -1,5 +1,5 @@
 # WebpackBin project
-http://www.webpackbin.com/EJ9cD3QvG
+http://www.webpackbin.com/4yJqnAVwf
 ## Start
 
 `npm install`
