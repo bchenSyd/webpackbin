@@ -1,5 +1,6 @@
-1.touch index.js. you don't have to add content to it
-2.touch webpack.config.js
+1. touch index.js. you don't have to add content to it
+
+2. touch `webpack.config.js`
 ```
 var path = require('path')
 
@@ -13,4 +14,6 @@ module.exports= {
 		}
 }
 ```
-3. webpack-dev-server
+
+
+3. run `webpack-dev-server`
